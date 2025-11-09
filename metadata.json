@@ -1,0 +1,5 @@
+{
+  "name": "FoodHub Data Analysis Dashboard",
+  "description": "An interactive dashboard for FoodHub to analyze restaurant order data, visualize trends in demand, and generate AI-powered business insights to enhance customer experience and business growth.",
+  "requestFramePermissions": []
+}
